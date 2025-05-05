@@ -9,8 +9,8 @@ A project focused on applying data mining techniques to extract insights from da
 ---
 
 ### 2. Data Visualization
-- [ ] Create at least 3 different plots
-- [ ] Highlight patterns or insights from the data
+- [x] Create at least 3 different plots
+- [x] Highlight patterns or insights from the data
 
 ---
 
