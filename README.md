@@ -3,7 +3,7 @@ A project focused on applying data mining techniques to extract insights from da
 
 ## ✅ Project Checklist
 ### 1. Data Preprocessing
-- [ ] Handle missing values  
+- [x] Handle missing values  
 - [ ] Encode categorical data  
 
 ---
