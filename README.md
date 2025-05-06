@@ -16,8 +16,8 @@ A project focused on applying data mining techniques to extract insights from da
 
 ### 3. Apriori Algorithm
 - [x] Convert data to transactions
-- [ ] Apply Apriori to find frequent itemsets and association rules
-- [ ] Explain at least 3 rules
+- [x] Apply Apriori to find frequent itemsets and association rules
+- [x] Explain at least 3 rules
 
 ---
 
